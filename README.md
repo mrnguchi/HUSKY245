@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HUSKY245
+- 👋 Hi, I’m mr nguchi
 - 👀 I’m interested in coding and programming
 - 🌱 I’m currently learning coding and automation. 
 - 💞️ I’m looking to collaborate on 
